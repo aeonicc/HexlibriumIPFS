@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 1054b1c678546ac4f9669408d6990385
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 8300390950175814709
+    second: montanha (Montanha)|base|base|base.001|base|centroAction|base|centroAction|base|bas
+  - first:
+      74: 539193601914291721
+    second: montanha (Montanha)|base|base|base.001|base|OverallParentAction|base|OverallParentA
+  - first:
+      74: -4328810708989189977
+    second: montanha (Montanha)|base|base|base.001|base|planeta_01Action.001|base|planeta_01_da
+  - first:
+      74: 9088225111886473165
+    second: montanha (Montanha)|base|base|centroAction|base|centroAction
+  - first:
+      74: 5499752466433854594
+    second: montanha (Montanha)|base|base|OverallParentAction|base|OverallParentAction
+  - first:
+      74: 3835861682035452554
+    second: montanha (Montanha)|base|base|planeta_01Action.001|base|planeta_01Action.001
+  - first:
+      74: -3888229154719818928
+    second: montanha (Montanha)|ParticleSettings.001Action
+  - first:
+      74: 7408039963538075139
+    second: montanha (Montanha).001|base|base|base.001|base|centroAction|base|centroAction|base|bas
+  - first:
+      74: 6018868603940024880
+    second: montanha (Montanha).001|base|base|base.001|base|OverallParentAction|base|OverallParentA
+  - first:
+      74: 6164180811215151884
+    second: montanha (Montanha).001|base|base|base.001|base|planeta_01Action.001|base|planeta_01_da
+  - first:
+      74: -8550922059383562251
+    second: montanha (Montanha).001|base|base|centroAction|base|centroAction
+  - first:
+      74: -5560671960440337689
+    second: montanha (Montanha).001|base|base|OverallParentAction|base|OverallParentAction
+  - first:
+      74: 9090511514182995536
+    second: montanha (Montanha).001|base|base|planeta_01Action.001|base|planeta_01Action.001
+  - first:
+      74: 8597633353057638488
+    second: montanha (Montanha).001|ParticleSettings.001Action
+  - first:
+      74: -7967073175896368269
+    second: montanha (Montanha).030|base|base|base.001|base|centroAction|base|centroAction|base|bas
+  - first:
+      74: -4313487020506399831
+    second: montanha (Montanha).030|base|base|base.001|base|OverallParentAction|base|OverallParentA
+  - first:
+      74: 4989853652526431905
+    second: montanha (Montanha).030|base|base|base.001|base|planeta_01Action.001|base|planeta_01_da
+  - first:
+      74: 2451834021399396689
+    second: montanha (Montanha).030|base|base|centroAction|base|centroAction
+  - first:
+      74: 466036515742902961
+    second: montanha (Montanha).030|base|base|OverallParentAction|base|OverallParentAction
+  - first:
+      74: -1975681731469443212
+    second: montanha (Montanha).030|base|base|planeta_01Action.001|base|planeta_01Action.001
+  - first:
+      74: 3917148754651960001
+    second: montanha (Montanha).030|ParticleSettings.001Action
+  - first:
+      74: 6443594520713852924
+    second: montanha (Montanha).031|base|base|base.001|base|centroAction|base|centroAction|base|bas
+  - first:
+      74: 6620188006250703835
+    second: montanha (Montanha).031|base|base|base.001|base|OverallParentAction|base|OverallParentA
+  - first:
+      74: -3713499668759643539
+    second: montanha (Montanha).031|base|base|base.001|base|planeta_01Action.001|base|planeta_01_da
+  - first:
+      74: 6829777786543358635
+    second: montanha (Montanha).031|base|base|centroAction|base|centroAction
+  - first:
+      74: 6072303371970414725
+    second: montanha (Montanha).031|base|base|OverallParentAction|base|OverallParentAction
+  - first:
+      74: -3514482785577404156
+    second: montanha (Montanha).031|base|base|planeta_01Action.001|base|planeta_01Action.001
+  - first:
+      74: 2119537544807603464
+    second: montanha (Montanha).031|ParticleSettings.001Action
+  - first:
+      74: 65994114814967065
+    second: montanha (Montanha).032|base|base|base.001|base|centroAction|base|centroAction|base|bas
+  - first:
+      74: 8391244287974386946
+    second: montanha (Montanha).032|base|base|base.001|base|OverallParentAction|base|OverallParentA
+  - first:
+      74: -1262221566220733504
+    second: montanha (Montanha).032|base|base|base.001|base|planeta_01Action.001|base|planeta_01_da
+  - first:
+      74: 7327500395310069013
+    second: montanha (Montanha).032|base|base|centroAction|base|centroAction
+  - first:
+      74: 2686250000024457421
+    second: montanha (Montanha).032|base|base|OverallParentAction|base|OverallParentAction
+  - first:
+      74: 7987353498062614993
+    second: montanha (Montanha).032|base|base|planeta_01Action.001|base|planeta_01Action.001
+  - first:
+      74: 2823336120028760843
+    second: montanha (Montanha).032|ParticleSettings.001Action
+  - first:
+      74: 2065042955183636141
+    second: montanha (Montanha).033|base|base|base.001|base|centroAction|base|centroAction|base|bas
+  - first:
+      74: -3450746516861539361
+    second: montanha (Montanha).033|base|base|base.001|base|OverallParentAction|base|OverallParentA
+  - first:
+      74: 5869424712747754056
+    second: montanha (Montanha).033|base|base|base.001|base|planeta_01Action.001|base|planeta_01_da
+  - first:
+      74: 7379986850294391030
+    second: montanha (Montanha).033|base|base|centroAction|base|centroAction
+  - first:
+      74: 5589441684783940517
+    second: montanha (Montanha).033|base|base|OverallParentAction|base|OverallParentAction
+  - first:
+      74: 3220851812595194210
+    second: montanha (Montanha).033|base|base|planeta_01Action.001|base|planeta_01Action.001
+  - first:
+      74: 8170641638713726582
+    second: montanha (Montanha).033|ParticleSettings.001Action
+  - first:
+      74: -264138393127842710
+    second: montanha (Montanha).034|base|base|base.001|base|centroAction|base|centroAction|base|bas
+  - first:
+      74: 1954413060383726711
+    second: montanha (Montanha).034|base|base|base.001|base|OverallParentAction|base|OverallParentA
+  - first:
+      74: 961686528730888020
+    second: montanha (Montanha).034|base|base|base.001|base|planeta_01Action.001|base|planeta_01_da
+  - first:
+      74: -3400417668549297707
+    second: montanha (Montanha).034|base|base|centroAction|base|centroAction
+  - first:
+      74: 8723096217207400733
+    second: montanha (Montanha).034|base|base|OverallParentAction|base|OverallParentAction
+  - first:
+      74: -6082069280138838186
+    second: montanha (Montanha).034|base|base|planeta_01Action.001|base|planeta_01Action.001
+  - first:
+      74: -8420618094194858783
+    second: montanha (Montanha).034|ParticleSettings.001Action
+  - first:
+      74: -2605679678740505609
+    second: montanha (Montanha).035|base|base|base.001|base|centroAction|base|centroAction|base|bas
+  - first:
+      74: -2190870491058988846
+    second: montanha (Montanha).035|base|base|base.001|base|OverallParentAction|base|OverallParentA
+  - first:
+      74: -5111286058602636719
+    second: montanha (Montanha).035|base|base|base.001|base|planeta_01Action.001|base|planeta_01_da
+  - first:
+      74: -8952013524887744510
+    second: montanha (Montanha).035|base|base|centroAction|base|centroAction
+  - first:
+      74: 7719462142034321861
+    second: montanha (Montanha).035|base|base|OverallParentAction|base|OverallParentAction
+  - first:
+      74: 2042411931053083029
+    second: montanha (Montanha).035|base|base|planeta_01Action.001|base|planeta_01Action.001
+  - first:
+      74: -2722798556449895855
+    second: montanha (Montanha).035|ParticleSettings.001Action
+  - first:
+      74: 6679767033052335753
+    second: vento (Floresta).005|base|base|base.001|base|centroAction|base|centroAction|base|bas
+  - first:
+      74: 6984178581980084952
+    second: vento (Floresta).005|base|base|base.001|base|OverallParentAction|base|OverallParentA
+  - first:
+      74: 3645638980418945775
+    second: vento (Floresta).005|base|base|base.001|base|planeta_01Action.001|base|planeta_01_da
+  - first:
+      74: 6472694513644811927
+    second: vento (Floresta).005|base|base|centroAction|base|centroAction
+  - first:
+      74: -2786704304879305529
+    second: vento (Floresta).005|base|base|OverallParentAction|base|OverallParentAction
+  - first:
+      74: -3723185752346903194
+    second: vento (Floresta).005|base|base|planeta_01Action.001|base|planeta_01Action.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
